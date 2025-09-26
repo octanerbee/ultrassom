@@ -1,0 +1,6 @@
+numpy
+matplotlib.pyplot
+librosa
+librosa.display
+os
+csv
